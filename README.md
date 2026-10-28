@@ -5,8 +5,10 @@
 > *Ease is not emptiness. It is not simplicity without thought.
 > It is the quiet result of everything being considered.*
 
-📖 อ่านสรุปแบรนด์ได้ที่ [`01_brand-bible/BRAND_SUMMARY.md`](01_brand-bible/BRAND_SUMMARY.md)
-📁 Google Drive: [ASE folder](https://drive.google.com/drive/folders/1HpjM8dxj2oA-ItN-U9O6p7dCzmaxv7I8)
+📖 สรุปแบรนด์: [`01_brand-bible/BRAND_SUMMARY.md`](01_brand-bible/BRAND_SUMMARY.md)
+🏭 ข้อมูลบริษัท / ประวัติ / ลูกค้า: [`01_brand-bible/COMPANY_PROFILE.md`](01_brand-bible/COMPANY_PROFILE.md)
+💡 โจทย์ Design Opportunity: [`04_sub-brands/DESIGN_OPPORTUNITY_BRIEF.md`](04_sub-brands/DESIGN_OPPORTUNITY_BRIEF.md)
+📁 Google Drive: [ASE folder](https://drive.google.com/drive/folders/1HpjM8dxj2oA-ItN-U9O6p7dCzmaxv7I8) · ไฟล์ไหนอยู่ตรงไหน ดู [`DRIVE_INDEX.md`](DRIVE_INDEX.md)
 
 ---
 
