@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Adobe temp / cache
+*.tmp
+~*
+*.ai.bak
+Adobe Illustrator Auto-Recovery/
+
+# Editors
+.vscode/
+.idea/

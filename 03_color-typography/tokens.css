@@ -1,0 +1,18 @@
+/* ASE — A Sense of Ease · "Material Calmness" palette
+   Source: Brand Bible p.34–35 */
+:root {
+  /* Primary */
+  --ase-black: #11120D;              /* PANTONE Black 3 C */
+  --ase-warm-ivory: #F6F2E8;         /* PANTONE 7527 C */
+  --ase-architectural-taupe: #C8C2B7;/* PANTONE Warm Gray 3 */
+
+  /* Secondary */
+  --ase-craft-brown: #56483B;        /* PANTONE 7533 C */
+  --ase-deep-leather: #49110B;       /* PANTONE 4975 C */
+  --ase-soft-sand: #AD9E89;          /* PANTONE 7530 */
+  --ase-olive-grey: #565449;         /* PANTONE 418 C */
+
+  /* Typography */
+  --ase-font-headline: "Aktiv Grotesk Thai", "Helvetica Neue", Arial, sans-serif;
+  --ase-font-body-th: "IBM Plex Sans Thai Looped", "IBM Plex Sans Thai", sans-serif;
+}

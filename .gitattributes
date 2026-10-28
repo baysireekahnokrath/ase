@@ -1,0 +1,18 @@
+# Treat design / media files as binary (no diff, no line-ending changes)
+*.ai     binary
+*.psd    binary
+*.psb    binary
+*.indd   binary
+*.eps    binary
+*.pdf    binary
+*.tif    binary
+*.tiff   binary
+*.fig    binary
+*.png    binary
+*.jpg    binary
+*.mp4    binary
+*.mov    binary
+*.zip    binary
+*.otf    binary
+*.ttf    binary
+*.woff2  binary
