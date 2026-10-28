@@ -8,6 +8,7 @@
 📖 สรุปแบรนด์: [`01_brand-bible/BRAND_SUMMARY.md`](01_brand-bible/BRAND_SUMMARY.md)
 🏭 ข้อมูลบริษัท / ประวัติ / ลูกค้า: [`01_brand-bible/COMPANY_PROFILE.md`](01_brand-bible/COMPANY_PROFILE.md)
 💡 โจทย์ Design Opportunity: [`04_sub-brands/DESIGN_OPPORTUNITY_BRIEF.md`](04_sub-brands/DESIGN_OPPORTUNITY_BRIEF.md)
+🖥️ Company Profile 2026 (deck ใหม่): [เปิดดู](https://claude.ai/artifact/GPwX86DijWKTj2EFiErDf3) · source: `07_marketing/presentations/company-profile-2026/`
 📁 Google Drive: [ASE folder](https://drive.google.com/drive/folders/1HpjM8dxj2oA-ItN-U9O6p7dCzmaxv7I8) · ไฟล์ไหนอยู่ตรงไหน ดู [`DRIVE_INDEX.md`](DRIVE_INDEX.md)
 
 ---

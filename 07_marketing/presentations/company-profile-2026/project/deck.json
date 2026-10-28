@@ -1,0 +1,21 @@
+{
+  "v": 4,
+  "createdOnFiles": { "v": 1, "at": "2026-10-28T01:05:00Z" },
+  "lists": "css",
+  "title": "ASE Company Profile 2026",
+  "cover": "cover",
+  "order": ["cover", "idea", "naming", "heritage", "timeline", "pillars", "architecture", "system", "maker", "process", "curator", "projects", "collab", "sustain", "closing"],
+  "sections": {
+    "s1": { "description": "Who ASE is: the core idea and what the name means.", "start": "cover" },
+    "s2": { "description": "Since 1992: the making heritage behind the brand.", "start": "heritage" },
+    "s3": { "description": "The brand system: four roles and four sub-brands.", "start": "pillars" },
+    "s4": { "description": "How ASE makes: craft, process and materials.", "start": "maker" },
+    "s5": { "description": "Proof: projects, collaborations and sustainability.", "start": "projects" },
+    "s6": { "description": "Closing and contact.", "start": "closing" }
+  },
+  "faces": {
+    "inter-tight": { "family": "Inter Tight", "href": "https://fonts.googleapis.com/css2?family=Inter+Tight:wght@200..600&display=swap" },
+    "ibm-plex-sans-thai-looped": { "family": "IBM Plex Sans Thai Looped", "href": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@300;400;500&display=swap" }
+  },
+  "designSystems": []
+}

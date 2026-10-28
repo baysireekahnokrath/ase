@@ -28,12 +28,10 @@ ASE/
 │       └── ASE_Open_Factory_From_Design_to_Making.pptx  (สำหรับนักศึกษา)
 ├── 08_website/                                          (ว่าง)
 └── 99_archive/
-    └── duplicates/
-        ├── ASE_Design_Opportunity.pdf                   (ซ้ำกับ Brief — เนื้อหาเหมือนกัน)
-        └── ASE_Design_Opportunity.pdf                   (ซ้ำ — เคยอยู่ใน ASE ref)
+    └── duplicates/                                      (ว่าง — ไฟล์ซ้ำ 2 ไฟล์ย้ายไปถังขยะแล้ว 28 ต.ค. 2026)
 ```
 
 ## หมายเหตุ
 - ไฟล์ `.ai` 394 MB เกินลิมิต GitHub (100 MB) → เก็บใน Drive เท่านั้น
 - ภาพ DOI TUNG มีเลข 01, 02, 04, 05, 06 — **ไม่มี 03**
-- ไฟล์ใน `99_archive/duplicates/` ลบได้เมื่อยืนยันแล้ว (ยังไม่ได้ลบ)
+- `ASE_Design_Opportunity.pdf` ที่ซ้ำ 2 ไฟล์ ย้ายไปถังขยะ Drive แล้ว (กู้คืนได้ภายใน 30 วัน)
