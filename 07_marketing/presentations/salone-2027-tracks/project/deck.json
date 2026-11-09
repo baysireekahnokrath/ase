@@ -1,0 +1,21 @@
+{
+  "v": 4,
+  "createdOnFiles": { "v": 1, "at": "2026-11-09T09:00:00Z" },
+  "lists": "css",
+  "title": "ASE Milan 2027 Tracks",
+  "cover": "cover",
+  "order": ["cover", "reality", "ditp", "sculpture", "ideas", "materials", "t1", "t2", "t3", "t4", "t5", "compare", "pairs", "cwhy", "cproducts", "cmedia1", "cmedia2", "cvisitors", "ccustomers", "cfunnel", "decide"],
+  "sections": {
+    "s1": { "description": "เริ่มต้น: ความจริงของมิลาน และสิ่งที่เปลี่ยนเมื่อได้ไปกับ DITP", "start": "cover" },
+    "s2": { "description": "ไอเดียประติมากรรมหุ้มบุ และวัสดุไทยที่ใช้ได้", "start": "sculpture" },
+    "s3": { "description": "5 tracks ให้เลือก", "start": "t1" },
+    "s4": { "description": "เปรียบเทียบและจับคู่ 2 tracks", "start": "compare" },
+    "s5": { "description": "แผนสื่อสาร: สินค้า จุดขาย สื่อ คนเดินงาน ลูกค้าเรา และการวัดยอดขาย", "start": "cwhy" },
+    "s6": { "description": "สิ่งที่ต้องตัดสินใจในที่ประชุม", "start": "decide" }
+  },
+  "faces": {
+    "inter-tight": { "family": "Inter Tight", "href": "https://fonts.googleapis.com/css2?family=Inter+Tight:wght@200..600&display=swap" },
+    "ibm-plex-sans-thai-looped": { "family": "IBM Plex Sans Thai Looped", "href": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai+Looped:wght@300;400;500;600&display=swap" }
+  },
+  "designSystems": []
+}
